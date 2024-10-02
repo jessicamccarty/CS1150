@@ -1,1 +1,0 @@
-A collection of notes and projects for CS1150: Intermediate Procedural Programming.
